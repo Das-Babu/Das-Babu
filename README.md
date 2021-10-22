@@ -1,28 +1,4 @@
-<div style="margin: 0; padding: 0;
-            font-family: 'Poppins', sans-serif; 
-            display: flex">
-    <p style="position: absolute;
-              margin-top: 2rem;
-              margin-left: 2.5rem;
-              font-weight: bold;
-              font-style: normal;
-              font-size: 5rem;
-              color: snow;
-              text-shadow: 1px 1px steelblue;">
-        SUSOVAN DAS
-    </p>
-    <p style="position: absolute;
-              margin-top: 8rem;
-              margin-left: 3rem;
-              font-weight: bold;
-              font-style: normal;
-              font-size: 2rem;
-              color: gray;
-              text-shadow: .5px .5px silver;">
-        M.Sc in Computer Science
-    </p>
-    <img src="assets/banner.gif" width=100% height=250px>
-</div>
+<img src="assets/banner2.gif" width=100% height=250px>
 
 <h1 style="align-content: center;
            padding-right: 1rem;">
