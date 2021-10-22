@@ -1,4 +1,4 @@
-<img src="assets/banner2.gif" width=100% height=250px>
+<img src="assets/banner.gif" width=100% height=250px>
 
 <h1 style="align-content: center;
            padding-right: 1rem;">
@@ -19,13 +19,17 @@ I am a Python Developer and machine-learning enthusiast. I’m interested in Com
 
 ## Languages, Tools and Softwares
 <div style="background-color: white; padding: 1rem;">
-    <img alt="Python" width="55px" src="assets/python.png">
-    <img alt="Python" width="55px" src="assets/c.png">
-    <img alt="Python" width="55px" src="assets/c++.png">
-    <img alt="Python" width="55px" src="assets/html5.png">
-    <img alt="Python" width="55px" src="assets/javascript.png">
-    <img alt="Python" width="55px" src="assets/git.png">
-    <img alt="Python" width="55px" src="assets/flask.png">
-    <img alt="Python" width="55px" src="assets/django.png">
-    <img alt="Python" width="55px" src="assets/visual-studio-code.png">
+    <img alt="Python" width="55px" src="assets/python.png" style="background-color: white; padding: 1rem;">
+    <img alt="C" width="55px" src="assets/c.png" style="background-color: white; padding: 1rem;">
+    <img alt="C++" width="55px" src="assets/c++.png" style="background-color: white; padding: 1rem;">
+    <img alt="Html" width="55px" src="assets/html5.png" style="background-color: white; padding: 1rem;">
+    <img alt="Javascript" width="55px" src="assets/javascript.png" style="background-color: white; padding: 1rem;">
+    <br>
+    <img alt="Flask" width="55px" src="assets/flask.png" style="background-color: white; padding: 1rem;">
+    <img alt="Django" width="55px" src="assets/django.png" style="background-color: white; padding: 1rem;">
+    <img alt="Git" width="55px" src="assets/git.png" style="background-color: white; padding: 1rem;">
+    <br>
+    <img alt="VS Code" width="55px" src="assets/visual-studio-code.png" style="background-color: white; padding: 1rem;">
+    <img alt="Github" width="55px" src="assets/github.png" style="background-color: white; padding: 1rem;">
 </div>
+
