@@ -1,7 +1,6 @@
 <div style="margin: 0; padding: 0;
             font-family: 'Poppins', sans-serif; 
             display: flex">
-    <div width=100%>
     <p style="position: absolute;
               margin-top: 2rem;
               margin-left: 2.5rem;
@@ -22,7 +21,6 @@
               text-shadow: .5px .5px silver;">
         M.Sc in Computer Science
     </p>
-</div>
     <img src="assets/banner.gif" width=100% height=250px>
 </div>
 
