@@ -16,7 +16,6 @@
 </h1>
 I am a Python Developer and machine-learning enthusiast. I’m interested in Comptuer Vision. I am passionate about technologies and love to learn new things.
 
-
 ## Languages, Tools and Softwares
 <div style="padding: 1rem;">
     <img alt="Python" width="55px" src="assets/python.png">&nbsp;&nbsp;
@@ -35,4 +34,24 @@ I am a Python Developer and machine-learning enthusiast. I’m interested in Com
     <br><br><br>
     <img alt="VS Code" width="55px" src="assets/visual-studio-code.png">&nbsp;&nbsp;
     <img alt="Github" width="55px" src="assets/github.png">
+    <br>
 </div>
+
+## GitHub Stats
+![Susovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=susovangithub&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true&custom_title=My%20GitHub%20Stats)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SusovanGithub&layout=compact&theme=tokyonight&custom_title=My%20Top%20Languages)
+
+## Favourite Repository
+<a href="https://github.com/SusovanGithub/OpenCV-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SusovanGithub&repo=OpenCV-Projects&theme=tokyonight">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/SusovanGithub/Python-Games">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SusovanGithub&repo=Python-Games&theme=tokyonight">
+</a>
+<br>
+<br>
+<a href="https://github.com/SusovanGithub/Tkinter-Applications">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SusovanGithub&repo=Tkinter-Applications&theme=tokyonight">
+</a>
