@@ -1,17 +1,17 @@
-<img src="assets/banner.gif" width=100% height=250px>
+<img src=".assets/banner.gif" width=100% height=250px>
 
 <h1 style="align-content: center;
            padding-right: 1rem;">
-    <img src="assets/wave.gif" width="30px"> <samp>Hi, I’m Susovan! 👨‍💻</samp>
+    <img src=".assets/wave.gif" width="30px"> <samp>Hi, I’m Susovan! 👨‍💻</samp>
     <a href="https://instagram.com/_susovandas/">
-        <img align="right" alt="Susovan's Instagram" width="40px" src="assets/instagram.png" />
+        <img align="right" alt="Susovan's Instagram" width="40px" src=".assets/instagram.png" />
     </a>
     </a>
     <a href="https://www.facebook.com/susovandasfb/">
-        <img align="right" alt="Susovan's Facebook" width="40px" src="assets/facebook.svg" />
+        <img align="right" alt="Susovan's Facebook" width="40px" src=".assets/facebook.svg" />
     </a>
     <a href="https://www.linkedin.com/in/susovandas/">
-        <img align="right" alt="Susovan's LinkedIn" width="40px" src="assets/linkedin.svg" />
+        <img align="right" alt="Susovan's LinkedIn" width="40px" src=".assets/linkedin.svg" />
     </a>
 </h1>
 
@@ -27,32 +27,32 @@ I am a Python Developer and machine-learning enthusiast. I’m interested in Com
 
 ## Languages, Tools and Softwares
 <div style="padding: 1rem;" align="center">
-    <img alt="Python" width="60px" src="assets/python.png">&nbsp;&nbsp;
-    <img alt="C" width="60px" src="assets/c.png">&nbsp;&nbsp;
-    <img alt="C++" width="55px" src="assets/c++.png">&nbsp;&nbsp;
-    <img alt="Html" width="60px" src="assets/html.png">&nbsp;&nbsp;
-    <img alt="CSS" width="60px" src="assets/css.png">&nbsp;&nbsp;
-    <img alt="Javascript" width="60px" src="assets/javascript.png">
+    <a href="https://www.python.org/"><img alt="Python" width="60px" src=".assets/python.png"></a>&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" width="60px" src=".assets/c.png"></a>&nbsp;&nbsp;
+    <a href="https://isocpp.org/"><img alt="C++" width="55px" src=".assets/c++.png"></a>&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/HTML"><img alt="Html" width="60px" src=".assets/html.png"></a>&nbsp;&nbsp;
+    <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS" width="60px" src=".assets/css.png"></a>&nbsp;&nbsp;
+    <a href="https://www.javascript.com/"><img alt="Javascript" width="60px" src=".assets/javascript.png"></a>
     <br><br>
-    <img alt="OpenCV" width="55px" src="assets/OpenCV_Logo.png">&nbsp;&nbsp;
-    <img alt="Flask" width="60px" src="assets/flask.png">&nbsp;&nbsp;
-    <img alt="Django" width="60px" src="assets/django.png">&nbsp;&nbsp;
-    <img alt="Bootstrap" width="60px" src="assets/bootstrap.png">&nbsp;&nbsp;
-    <img alt="keras" width="60px" src="assets/keras.png">&nbsp;&nbsp;
-    <img alt="Pytorch" width="55px" src="assets/pytorch.png">&nbsp;&nbsp;
-    <img alt="Tkinter" width="55px" src="assets/tkinter.png">&nbsp;&nbsp;
-    <img alt="Git" width="60px" src="assets/git.png">
+    <a href="https://opencv.org/"><img alt="OpenCV" width="50px" src=".assets/OpenCV_Logo.png"></a>&nbsp;&nbsp;
+    <a href="https://flask.palletsprojects.com/en/2.0.x/"><img alt="Flask" width="55" src=".assets/flask.png"></a>&nbsp;&nbsp;
+    <a href="https://www.djangoproject.com/"><img alt="Django" width="55" src=".assets/django.png"></a>&nbsp;&nbsp;
+    <a href="https://getbootstrap.com/"><img alt="Bootstrap" width="55" src=".assets/bootstrap.png"></a>&nbsp;&nbsp;
+    <a href="https://keras.io/"><img alt="keras" width="55" src=".assets/keras.png"></a>&nbsp;&nbsp;
+    <a href="https://pytorch.org"><img alt="Pytorch" width="50px" src=".assets/pytorch.png"></a>&nbsp;&nbsp;
+    <a href="https://docs.python.org/3/library/tkinter.html"><img alt="Tkinter" width="50px" src=".assets/tkinter.png"></a>&nbsp;&nbsp;
+    <a href="https://git-scm.com/"><img alt="Git" width="55" src=".assets/git.png"></a>
     <br><br><br>
-    <img alt="VS Code" width="60px" src="assets/visual-studio-code.png">&nbsp;&nbsp;
-    <img alt="Github" width="60px" src="assets/github.png">
+    <a href="https://code.visualstudio.com/"><img alt="VS Code" width="55" src=".assets/visual-studio-code.png"></a>&nbsp;&nbsp;
+    <a href="https://github.com/"><img alt="Github" width="55" src=".assets/github.png"></a>
     <br>
 </div>
 
 ## GitHub Stats
-<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=susovangithub&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true&custom_title=My%20GitHub%20Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=susovangithub&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true&custom_title=My%20GitHub%20Stats">
 
 ## Most Used Languages
-<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusovanGithub&layout=compact&theme=tokyonight&custom_title=My%20Top%20Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusovanGithub&layout=compact&theme=tokyonight&custom_title=My%20Top%20Languages">
 
 ## Favourite Repository
 <a href="https://github.com/SusovanGithub/OpenCV-Projects">
