@@ -3,15 +3,20 @@
 <h1 style="align-content: center;
            padding-right: 1rem;">
     <img src=".assets/wave.gif" width="30px"> <samp>Hi, I’m Susovan! 👨‍💻</samp>
-    <a href="https://instagram.com/_susovandas/">
-        <img align="right" alt="Susovan's Instagram" width="40px" src=".assets/instagram.png" />
-    </a>
-    </a>
-    <a href="https://www.facebook.com/susovandasfb/">
-        <img align="right" alt="Susovan's Facebook" width="40px" src=".assets/facebook.svg" />
+    <a href="https://susovangithub.github.io/w/">
+        <img align="right" alt="Susovan's LinkedIn" width="40px" src=".assets/web.png" />
     </a>
     <a href="https://www.linkedin.com/in/susovandas/">
         <img align="right" alt="Susovan's LinkedIn" width="40px" src=".assets/linkedin.svg" />
+    </a>
+    <a href="https://t.me/susovandas_tg">
+        <img align="right" alt="Susovan's Telegram" width="40px" src=".assets/telegram.png" />
+    </a>
+    <a href="https://instagram.com/_susovandas/">
+        <img align="right" alt="Susovan's Instagram" width="40px" src=".assets/instagram.png" />
+    </a>
+    <a href="https://www.facebook.com/susovandasfb/">
+        <img align="right" alt="Susovan's Facebook" width="40px" src=".assets/facebook.svg" />
     </a>
 </h1>
 
