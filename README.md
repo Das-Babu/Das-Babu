@@ -19,7 +19,7 @@
     </a>
 </h1>
 
-I am a Python Developer and machine-learning enthusiast. I’m interested in Comptuer Vision. I am passionate about technologies and love to learn new things.
+Presently working as a full-stack Salesforce Developer. With experiences in Apex, LWC, Javascript,  and git version control system. I have a Salesforce Certified Platform Developer.  I am passionate about technologies, programming,  and love to learn new things. Love to binge anime, and play video games.
 
 #### My Created Apps - 
 * **Stone Paper Scissor Game** - A web game created in Python Flask. It is classic game and the Computer Vision makes it' more interesting and fun full to play. For visit the website [Click Here](https://stone-paper-scissors-game.herokuapp.com/)
