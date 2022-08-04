@@ -19,12 +19,12 @@
     </a>
 </h1>
 
-Presently working as a full-stack Salesforce Developer. With experiences in Apex, LWC, Javascript,  and git version control system. I have a Salesforce Certified Platform Developer.  I am passionate about technologies, programming,  and love to learn new things. Love to binge anime, and play video games.
+Presently working as a full-stack Salesforce Developer _(check my LinkedIn Profile)_. I am passionate about technologies, and programming. Love to binge anime, and play video games.
 
-#### My Created Apps - 
-* **Stone Paper Scissor Game** - A web game created in Python Flask. It is classic game and the Computer Vision makes it' more interesting and fun full to play. For visit the website [Click Here](https://stone-paper-scissors-game.herokuapp.com/)
+#### Favorite Personal Projects - 
+* **Stone Paper Scissor Game** - A web game created in Python Flask. It is classic game and the Computer Vision makes it' more interesting and fun full to play. For visit the website [Click Here](https://stone-paper-scissors-game.herokuapp.com/).
 
-* **Covid Vaccine Slot Notifier** - A Web Application is designed to send the Notification messages everyday to your Telegram Id of available Covid Vaccine Slot from the selected State and District of your choice with some extra filters. For visit the website [Click Here](https://covid-vaccine-slot-reminder.herokuapp.com/)
+* **Covid Vaccine Slot Notifier** - A Web Application is designed to send the Notification messages everyday to your Telegram Id of available Covid Vaccine Slot from the selected State and District of your choice with some extra filters. For visit the website [Click Here](https://covid-vaccine-slot-reminder.herokuapp.com/) _(not functioning right now)_.
 
 * **Virtual Painter** - A GUI Applications where we are drawing on the canvas by moving our hand. This app use our hand as the pointer and draw how our hand moves. This App is Created using Tkinter for the GUI part, for hand and it's landmarks detection we use Mediapipe and for other image related things we use OpenCV Module. For visit [Click Here](https://github.com/SusovanGithub/Tkinter-Applications/tree/master/Virtual-Painter/)
 
